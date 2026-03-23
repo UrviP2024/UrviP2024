@@ -25,9 +25,17 @@
 
 🌐 Web Development
 
-* HTML
-* CSS
-* JavaScript
+## 🚀 Skills
+
+HTML
+█████████░░ 90%
+
+CSS
+████████░░░ 80%
+
+JavaScript
+███████░░░░ 70%
+
 
 🛠 Tools & Technologies
 
