@@ -1,14 +1,14 @@
 
 # 👋 Hi, I'm Urvashi Parmar
 
-🎓 Student | 💻 Web Developer |
+🎓 Student At Parul University | 💻 Web Developer |
 
 ---
 
 ## 🌸 About Me
 
 * 🔭 I’m currently working on: *Web Development / DSA*
-* 🌱 I’m currently learning: *Java, Data Structures, Networking*
+* 🌱 I’m currently learning: *Java,Python, Data Structures, Networking*
 * 🎯 Goal: Become a skilled Software Engineer
 * 💬 Ask me about: *Java, HTML, CSS, Basics of Programming*
 
