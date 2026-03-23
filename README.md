@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**UrviP2024/UrviP2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Urvashi Parmar
 
-Here are some ideas to get you started:
+🎓 Student | 💻 Web Developer |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+* 🔭 I’m currently working on: *Web Development / DSA*
+* 🌱 I’m currently learning: *Java, Data Structures, Networking*
+* 🎯 Goal: Become a skilled Software Engineer
+* 💬 Ask me about: *Java, HTML, CSS, Basics of Programming*
+
+
+---
+
+## 🚀 Skills
+
+💻 Programming Languages
+
+* Java ☕
+* C
+* Python
+
+🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript
+
+🛠 Tools & Technologies
+
+* Git & GitHub
+* VS Code
+* Cisco Packet Tracer
+
+---
+
+
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/urvashi-parmar-bb42472b4?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* 📧 Email: [Urvaship2006@gmail.com](Leetcode Profile:https://leetcode.com/u/_urvi_parmar_09/)
+
+---
+
+## ✨ Fun Fact
+
+💡 I love learning new technologies and solving coding problems!
+   I aslo love Dancing and Public Speaking!
+
+---
+
+⭐️ *Thank you for visiting my profile!*
